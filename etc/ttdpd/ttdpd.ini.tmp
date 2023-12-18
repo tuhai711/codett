@@ -1,0 +1,11 @@
+[default]
+CstUUID=727dc3bc-535b-4192-99f4-37a1ba4f9e38
+etbOrientation=2
+cstOrientation=1
+cstNumETB=2
+cstNumCN=2
+CnId=1
+Bridge_Intf=br0
+L_Intf=eth1
+R_Intf=eth2
+C_Intf=eth0 1
